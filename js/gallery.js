@@ -5,7 +5,7 @@
 class Config {
   constructor(config, opts) {
     this.data = config;
-    this.maxHeight = opts.maxHeight || 600;
+    this.maxHeight = opts.maxHeight || 800;
     this.spacing = opts.spacing || 10;
     this.shuffle = opts.shuffle || false;
     this.columns = opts.columns || 3;
