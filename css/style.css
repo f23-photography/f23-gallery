@@ -43,9 +43,9 @@ section img.img-loaded {
 h3 {
   margin-bottom: 36px;
 
-  color: #666;
+  color: #000;
   font-size: 16px;
-  text-transform: lowercase;
+  text-transform: none;
   font-weight: 400;
   letter-spacing: 2px;
 }
